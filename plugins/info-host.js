@@ -1,8 +1,8 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let txt = `✨ *C O R I N - P L U S - H O S T* 
+let txt = `✨ *H O S T I N G -  PY - H O S T* 
 
 *¿Quieres un Host de calidad y con bajos precios?*
-Pues te presento a *CorinPlusHost*, un hosting de calidad con servidores dedicados y precios por debajo de 1 USD, estos servidores están destinados a ofrecerte un Uptime 24/7 para que puedas alojar tus proyectos y qué estos funcionen de manera eficaz.
+Pues te presento a *HostingPyHost*, un hosting de calidad con servidores dedicados y precios por debajo de 1 USD, estos servidores están destinados a ofrecerte un Uptime 24/7 para que puedas alojar tus proyectos y qué estos funcionen de manera eficaz.
 
 🌺 \`\`\`Información del Host\`\`\`
 
