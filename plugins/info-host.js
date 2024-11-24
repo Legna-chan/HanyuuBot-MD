@@ -7,16 +7,16 @@ Pues te presento a *CorinPlusHost*, un hosting de calidad con servidores dedicad
 🌺 \`\`\`Información del Host\`\`\`
 
 🌸 *Dashboard:* 
-• https://dash.corinplus.com
+• https://dahs.hostingpy.shop
 
 🍁 *Panel:*
-• https://panel.corinplus.com
+• https://panel.hostingpy.com
 
-☘ *Comunidad Oficial:*
-• https://chat.whatsapp.com/HR3OLhsuZPqCMImzuHcuON
+☘ *Canal Oficial:*
+• https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W
 
-🍂 *Contacto (Corin PLus Host - Asistencia)*
-https://wa.me/573147616444
+🍂 *Contacto (HostingPy Host - Asistencia)*
+https://wa.me/595976126756
 
 > *Únete a está comunidad y disfruta de un servicio de calidad ✨*` 
 await conn.sendMessage(m.chat, { text: txt,
@@ -26,7 +26,7 @@ isForwarded: false,
 "externalAdReply": {
 "showAdAttribution": true,
 "containsAutoReply": true,
-title: `🍄 C O R I N - H O S T 🍄`,
+title: `🍄 H O S T I N G PY - H O S T 🍄`,
 body: `👑 Hosting 24/7 👑`,
 "previewType": "PHOTO",
 thumbnailUrl: 'https://telegra.ph/file/934d7ab39d50f7560cef2.png', 
