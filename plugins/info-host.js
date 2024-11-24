@@ -9,9 +9,6 @@ Pues te presento a *HostingPyHost*, un hosting de calidad con servidores dedicad
 🌸 *Dashboard:* 
 • https://dahs.hostingpy.shop
 
-🍁 *Panel:*
-• https://panel.hostingpy.com
-
 ☘ *Canal Oficial:*
 • https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W
 
