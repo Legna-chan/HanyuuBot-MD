@@ -16,7 +16,7 @@ let handler = async (m, { conn, command, usedPrefix }) => {
     • Niño piña 
     ☁ *Rol:* Colaborador
     ☁ *Número:* Wa.me/50557865603
-    ☁ *GitHub:* https://github.com/WillZek/WillZek.git`
+    ☁ *GitHub:* `
     await conn.sendFile(m.chat, icons, 'nino.jpg', staff.trim(), fkontak, true, {
     contextInfo: {
     'forwardingScore': 200,
