@@ -1,22 +1,22 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
     let staff = `EQUIPO DE AYUDANTES DEL BOT
-    💜 *Bot:* ${botname}
-    💜 *Versión:* ${vs}
-    💜 *Libreria:* ${libreria + baileys}
+    🌸 *Bot:* ${botname}
+    🌸 *Versión:* ${vs}
+    🌸 *Libreria:* ${libreria + baileys}
     
-    👑 *Propietario:*
+    👑 *Pɾσριҽƚαɾισ:*
     
     • 
-    ☁ *Rol:* 𝕷𝖊𝖌𝖓𝖆𝕺𝖋𝖈 🌸
+    ☁ *Rol:* ιαɳαʅҽʝαɳԃɾσσƙ15x
     ☁ *Número:* ${creador}
-    ☁ *GitHub:* https://github.com/Legna-chan/HanyuuBot-MD.git
+    ☁ *GitHub:* https://github.com/ianalejandrook15x
     
     🍄  *Colaboradores:*
     
-    • Niño piña 
+    • Dev-Diego
     ☁ *Rol:* Colaborador
-    ☁ *Número:* Wa.me/50557865603
-    ☁ *GitHub:* `
+    ☁ *Número:* Wa.me/573012482597
+    ☁ *GitHub:* https://github.com/Dev-Diego`
     await conn.sendFile(m.chat, icons, 'nino.jpg', staff.trim(), fkontak, true, {
     contextInfo: {
     'forwardingScore': 200,
@@ -25,7 +25,7 @@ let handler = async (m, { conn, command, usedPrefix }) => {
     showAdAttribution: true,
     renderLargerThumbnail: false,
     title: `👑 Developers 👑`,
-    body: `🌙 STAFF DE LA BOT`,
+    body: `🌙 STAFF DEL BOT`,
     mediaType: 1,
     sourceUrl: redes,
     thumbnailUrl: icono
