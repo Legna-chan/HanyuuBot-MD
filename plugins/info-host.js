@@ -29,7 +29,7 @@ isForwarded: false,
 title: `🍄 H O S T I N G PY - H O S T 🍄`,
 body: `👑 Hosting 24/7 👑`,
 "previewType": "PHOTO",
-thumbnailUrl: 'https://telegra.ph/file/934d7ab39d50f7560cef2.png', 
+thumbnailUrl: 'https://qu.ax/njcHE.jpg', 
 sourceUrl: 'https://dash.corinplus.com'}}},
 { quoted: fkontak})
 }
