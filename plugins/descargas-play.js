@@ -1,6 +1,6 @@
 import yts from 'yt-search' 
-const handler = async (m, { conn, text, usedPrefix, command }) => {
-    if (!text) throw `Ejemplo: ${usedPrefix + command} Daylight`,m ,rcanal;
+const handler = async (m, { conn, text, usedPrefix, command }) => { // Verificacion de argumentos
+if(!args[0] { (!text) throw `Ejemplo: ${usedPrefix + command} Daylight`,m ,rcanal;
 
     const randomReduction = Math.floor(Math.random() * 5) + 1;
     let search = await yts(text);
